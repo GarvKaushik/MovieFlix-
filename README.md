@@ -122,7 +122,8 @@ Response:
 }
 ```
 ## 🌍 Deployment
---- Backend (Render)
+--- Backend (Render)---
+
 ```Root Directory: backend```
 Build Command:
 
@@ -138,7 +139,7 @@ Add Environment Variable:
 
 ```TMDB_API_KEY```
 
---- Frontend (Vercel)
+--- Frontend (Vercel)---
 
 ```Root Directory: frontend```
 
