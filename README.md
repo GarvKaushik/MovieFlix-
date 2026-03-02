@@ -1,9 +1,9 @@
-🎬 MovieFlix – AI Movie Recommender System
+## 🎬 MovieFlix – AI Movie Recommender System
 
 MovieFlix is a full-stack AI-powered movie recommendation web application built using FastAPI, React, and Scikit-learn.
 It recommends similar movies using content-based filtering and cosine similarity.
 
-🚀 ## Features ##
+🚀 -- Features --
 
 🔍 Search from existing movies (dropdown search)
 🎯 Top 5 similar movie recommendations
@@ -26,7 +26,7 @@ cosine_similarity(vectors[index], vectors)
 
 5. Posters are fetched from the TMDB API.
 
-----🏗 Tech Stack---
+## 🏗 Tech Stack
 ## Frontend
 React
 CSS
