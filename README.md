@@ -47,6 +47,7 @@ Pandas
 NumPy
 
 ---📂 Project Structure ----
+```
 MovieFlix/
 │
 ├── frontend/
@@ -62,3 +63,4 @@ MovieFlix/
 │   └── runtime.txt
 │
 └── README.md
+```
