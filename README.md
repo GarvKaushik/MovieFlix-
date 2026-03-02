@@ -94,7 +94,9 @@ http://127.0.0.1:8000
 
 Frontend runs at:
 
-```http://localhost:3000```
+```
+http://localhost:3000
+```
 📡 API Endpoints
 Get All Movies
 ``GET /movies``
@@ -121,20 +123,21 @@ Response:
 ```
 ## 🌍 Deployment
 --- Backend (Render)
-```
-Root Directory: backend
-```
+```Root Directory: backend```
 Build Command:
 
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 Start Command:
-
+```
 uvicorn main:app --host 0.0.0.0 --port 10000
-
+```
 Add Environment Variable:
 
 ```TMDB_API_KEY```
+
 --- Frontend (Vercel)
 
 ```Root Directory: frontend```
